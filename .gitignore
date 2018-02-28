@@ -3,5 +3,4 @@
 *.hdt
 *.nt
 krimipy/
-pg2rdf.py
 argparse
